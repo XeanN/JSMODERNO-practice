@@ -10,7 +10,7 @@ const carrito = [
 // carrito.map( function (producto) {
 //     console.log(`${producto.nombre} - Precio: ${producto.precio}`);
 // }),
-const nuevoArreglo= carrito.map( function (producto) {
+const nuevoArreglo = carrito.map( function (producto) {
     return `${producto.nombre} - Precio: ${producto.precio}`;
 });
 
