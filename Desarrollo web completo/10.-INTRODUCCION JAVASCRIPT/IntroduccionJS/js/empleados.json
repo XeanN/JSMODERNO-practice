@@ -1,0 +1,37 @@
+{
+    "empleados": [
+        {
+            "id" : 1,
+            "nombre" : "Angel",
+            "puesto" : "Programador Web"
+        },
+        {
+            "id" : 2,
+            "nombre" : "XeanM",
+            "puesto" : "UX / UI"
+        },
+        {
+            "id" : 3,
+            "nombre" : "Andrea",
+            "puesto" : "MKT"
+        },
+        {
+            "id" : 4,
+            "nombre" : "Karen",
+            "puesto" : "Servidores"
+        }
+    ],
+
+    "paises": [
+        {
+            "Europa" : "Italia",
+            "Moneda" : "Euro",
+            "Idioma" : "Italaiano"
+        },
+        {
+            "America" : "Peru",
+            "Moneda" : "Sol",
+            "Idioma" : "Español"
+        }
+    ]
+}
